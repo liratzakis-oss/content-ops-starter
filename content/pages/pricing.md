@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Βρες το πακέτο που σου ταιριάζει
     plans:
-      - title: Developers
+      - title: Starters
         price: Free
         details: No credit card required
         description: >-
