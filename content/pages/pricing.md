@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: Professional
         price: 400€
-        details: per month
+        details: anualy
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
