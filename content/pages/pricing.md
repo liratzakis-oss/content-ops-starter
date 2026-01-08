@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Βρές το πακέτο που σου ταιριάζει
     plans:
       - title: Developers
         price: Free
