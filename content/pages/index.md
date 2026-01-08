@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Growexprt
+      label: Growexpert
       color: text-primary
       type: Badge
     elementId: ''
