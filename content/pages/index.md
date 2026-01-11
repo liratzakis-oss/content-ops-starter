@@ -173,9 +173,6 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
