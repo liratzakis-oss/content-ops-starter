@@ -6,7 +6,7 @@
         "styles": {
             "self": {
                 "padding": [
-                    "pt-12"
+                    "pt-0"
                 ]
             }
         }
