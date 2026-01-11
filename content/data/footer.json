@@ -2,7 +2,14 @@
     "logo": {
         "url": "/images/GEORGE'S LOGO .png",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "padding": [
+                    "pt-12"
+                ]
+            }
+        }
     },
     "text": "A description of your brand",
     "primaryLinks": {
