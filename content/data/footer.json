@@ -68,15 +68,15 @@
     },
     "socialLinks": [
         {
-            "altText": "Facebook link",
-            "url": "https://github.com/netlify",
-            "icon": "facebook",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
+            "type": "Social"
+        },
+        {
+            "altText": "Facebook link",
+            "url": "https://github.com/netlify",
+            "icon": "facebook",
             "type": "Social"
         },
         {
