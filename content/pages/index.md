@@ -356,7 +356,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/scott-graham-5fNmWej4tAA-unsplash.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
