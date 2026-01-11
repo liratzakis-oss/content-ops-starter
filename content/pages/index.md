@@ -321,7 +321,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/scott-graham-5fNmWej4tAA-unsplash.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
