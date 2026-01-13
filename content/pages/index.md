@@ -69,10 +69,14 @@ sections:
       - type: FeaturedItem
         title: 50k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Trusted by more than 2**,000 producers across Crete**, we work closely
+          with agricultural teams to remove operational bottlenecks and turn
+          expertise into action. Our consulting approach combines local
+          agronomic knowledge with practical planning, helping producers make
+          faster decisions, improve field performance, and move efficiently from
+          strategy to production with confidence.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
