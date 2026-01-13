@@ -233,7 +233,7 @@ sections:
     media:
       title: Title of the video
       url: >-
-        "C:\Users\lirat\OneDrive\Desktop\GROEXPERT\SITE\Φωτογραφίες\istockphoto-1272437058-640_adpp_is.mp4"
+        https://www.istockphoto.com/video/smart-digital-agriculture-technology-by-futuristic-sensor-data-collection-gm1212890007-352253057
       controls: false
       aspectRatio: '16:9'
       styles:
