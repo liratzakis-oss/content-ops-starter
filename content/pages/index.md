@@ -175,7 +175,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Succe enterprises trust us
     images: []
     motion: move-to-left
     colors: bg-light-fg-dark
