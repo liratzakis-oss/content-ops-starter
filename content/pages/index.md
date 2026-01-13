@@ -221,7 +221,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Act at the right time
     text: >+
 
       Grow your business 10× faster with expert agricultural consulting designed
