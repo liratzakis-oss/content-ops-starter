@@ -1,8 +1,15 @@
 {
     "logo": {
-        "url": "/images/Image 2.png",
+        "url": "/images/GEORGE'S LOGO .png",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "padding": [
+                    "pt-0"
+                ]
+            }
+        }
     },
     "text": "A description of your brand",
     "primaryLinks": {
@@ -61,21 +68,21 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
+            "type": "Social"
+        },
+        {
+            "altText": "Facebook link",
+            "url": "https://github.com/netlify",
+            "icon": "facebook",
+            "type": "Social"
+        },
+        {
+            "altText": "Instagram link",
+            "url": "https://instagram.com/netlify",
+            "icon": "instagram",
             "type": "Social"
         },
         {

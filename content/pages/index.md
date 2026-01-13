@@ -4,14 +4,19 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
-      color: text-dark
+      text: Unblock your team, boost your time to production
+      color: text-neutral
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: ''
+    text: >+
+
+      We help you remove obstacles by providing clear guidance, practical
+      strategies, and data-driven solutions tailored to your crops, land, and
+      people. By aligning agronomic expertise with efficient workflows, we help
+      your team focus on what matters most—making confident decisions faster,
+      improving field execution, and turning plans into productive results
+      without delays.
+
     actions:
       - label: Get started
         altText: ''
@@ -59,15 +64,15 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Our achievements
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 50k
+        subtitle: 'Numbers Done                                         '
+        text: >
+          Trusted by more than 2,000 producers across Crete, we work closely
+          with agricultural teams to remove operational bottlenecks and turn
+          expertise into action.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -91,11 +96,13 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Years of experience
+        text: >+
+          Our consulting approach combines local agronomic knowledge with
+          practical planning, helping producers make faster decisions, improve
+          field performance, and move efficiently from strategy to production
+          with confidence.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +122,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: 10%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Our clients achieve  **faster time to production**, improving field
+          execution and turning plans into measurable results with confidenc
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -149,7 +156,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -168,29 +175,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
+  - subtitle: Trusted by leading businesses
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
@@ -235,15 +221,19 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Act at the right time
+    text: >+
+
+      Grow your business 10× faster with expert agricultural consulting designed
+      for real production environments. By combining agronomic knowledge,
+      process optimization, and on-field support, we help Cretan producers
+      streamline operations, reduce wasted time, and scale their businesses with
+      confidence and long-term sustainability.
+
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        file:///C:/Users/lirat/OneDrive/Desktop/GROEXPERT/SITE/%CE%A6%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B5%CF%82/istockphoto-1272437058-640_adpp_is.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -276,49 +266,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Social Media Management
       color: text-dark
@@ -342,7 +289,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/scott-graham-5fNmWej4tAA-unsplash.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
@@ -377,7 +324,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/scott-graham-5fNmWej4tAA-unsplash.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
