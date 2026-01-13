@@ -232,7 +232,8 @@ sections:
 
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        "C:\Users\lirat\OneDrive\Desktop\GROEXPERT\SITE\Φωτογραφίες\istockphoto-1272437058-640_adpp_is.mp4"
       controls: false
       aspectRatio: '16:9'
       styles:
