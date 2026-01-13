@@ -68,7 +68,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 50k
-        subtitle: Numbers Done
+        subtitle: 'Numbers Done                                         '
         text: >
           Trusted by more than 2\*\*,000 producers across Crete\*\*, we work
           closely with agricultural teams to remove operational bottlenecks and
