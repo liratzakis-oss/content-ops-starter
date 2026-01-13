@@ -67,7 +67,7 @@ sections:
     subtitle: Our achievements
     items:
       - type: FeaturedItem
-        title: 50k
+        title: 2k
         subtitle: 'Numbers Done                                         '
         text: >
           Trusted by more than 2,000 producers across Crete, we work closely
