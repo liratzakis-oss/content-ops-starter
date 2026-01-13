@@ -7,7 +7,7 @@ sections:
       text: Unblock your team, boost your time to production
       color: text-neutral
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
 
       We help you remove obstacles by providing clear guidance, practical
