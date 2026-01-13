@@ -232,7 +232,7 @@ sections:
 
     media:
       title: Title of the video
-      url: ''
+      url: /images/placeholder-video.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
