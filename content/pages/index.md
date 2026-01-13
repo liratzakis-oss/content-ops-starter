@@ -97,10 +97,12 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: Years of experience
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Our consulting approach combines local agronomic knowledge with
+          practical planning, helping producers make faster decisions, improve
+          field performance, and move efficiently from strategy to production
+          with confidence.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
