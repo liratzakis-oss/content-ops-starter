@@ -64,7 +64,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Our achivment
+    subtitle: Our achievements
     items:
       - type: FeaturedItem
         title: 50k
