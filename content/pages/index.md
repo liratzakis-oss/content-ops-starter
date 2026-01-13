@@ -122,7 +122,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 20%
+      - title: 10%
         subtitle: Faster
         text: >+
           Our clients achieve  **faster time to production**, improving field
