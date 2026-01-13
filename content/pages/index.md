@@ -70,9 +70,9 @@ sections:
         title: 50k
         subtitle: 'Numbers Done                                         '
         text: >
-          Trusted by more than 2\*\*,000 producers across Crete\*\*, we work
-          closely with agricultural teams to remove operational bottlenecks and
-          turn expertise into action. 
+          Trusted by more than 2,000 producers across Crete, we work closely
+          with agricultural teams to remove operational bottlenecks and turn
+          expertise into action.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
