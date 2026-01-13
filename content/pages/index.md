@@ -232,7 +232,8 @@ sections:
 
     media:
       title: Title of the video
-      url: ''
+      url: >-
+        file:///C:/Users/lirat/OneDrive/Desktop/GROEXPERT/SITE/%CE%A6%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B5%CF%82/istockphoto-1272437058-640_adpp_is.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
