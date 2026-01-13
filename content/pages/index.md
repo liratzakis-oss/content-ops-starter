@@ -175,7 +175,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Succe enterprises trust us
+  - subtitle: Trusted by leading businesses
     images: []
     motion: move-to-left
     colors: bg-light-fg-dark
