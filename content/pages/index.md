@@ -222,11 +222,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Grow your business 10× faster with expert agricultural consulting designed
+      for real production environments. By combining agronomic knowledge,
+      process optimization, and on-field support, we help Cretan producers
+      streamline operations, reduce wasted time, and scale their businesses with
+      confidence and long-term sustainability.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
