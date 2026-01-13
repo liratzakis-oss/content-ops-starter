@@ -8,10 +8,15 @@ sections:
       color: text-neutral
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      We help you remove obstacles by providing clear guidance, practical
+      strategies, and data-driven solutions tailored to your crops, land, and
+      people. By aligning agronomic expertise with efficient workflows, we help
+      your team focus on what matters most—making confident decisions faster,
+      improving field execution, and turning plans into productive results
+      without delays.
+
     actions:
       - label: Get started
         altText: ''
