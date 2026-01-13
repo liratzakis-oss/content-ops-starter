@@ -232,8 +232,7 @@ sections:
 
     media:
       title: Title of the video
-      url: >-
-        https://www.istockphoto.com/video/smart-digital-agriculture-technology-by-futuristic-sensor-data-collection-gm1212890007-352253057
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
