@@ -124,10 +124,10 @@ sections:
         type: FeaturedItem
       - title: 20%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Our clients achieve  **faster time to production**, improving field
+          execution and turning plans into measurable results with confidenc
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
